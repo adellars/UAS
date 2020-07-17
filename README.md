@@ -10,4 +10,4 @@ Tambah Data,
 Edit Data, 
 Hapus Data, 
 Laporan, 
-dan Cetak Data
+dan Cetak Data.
